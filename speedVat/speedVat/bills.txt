@@ -1,0 +1,72 @@
+FV 2020/11/13/0
+13;11;2020;
+Moja mala firma;88645585;Slaska;28/14;Siemianowice Slaskie;41-100;
+Budex;65186213;ul. Obiwana Kenobiego;2/10;Krasnik;69-420;
+Bateria AA;1.32;0.23;
+Zwykly akumulator;200;0.23;
+&
+&
+NK 2020/11/14/0
+14;11;2020;
+Moja mala firma;88645585;Slaska;28/14;Siemianowice Slaskie;41-100;
+Budex;65186213;ul. Obiwana Kenobiego;2/10;Krasnik;69-420;
+Budex;Budexx;
+&
+@
+FV 2020/11/13/1
+13;11;2020;
+Moja mala firma;88645585;Slaska;28/14;Siemianowice Slaskie;41-100;
+Buldozercy;16463215;-;7;Niemyjesie;52-000;
+Duzy akumulator;5000;0.03;
+&
+@
+FV 2020/11/14/2
+14;11;2020;
+Moja mala firma;88645585;Slaska;28/14;Siemianowice Slaskie;41-100;
+Elopomelo;168131353;Dluga;87;Pcim Dolny;87-315;
+Duzy akumulator;5000;0.03;
+Bateria AA;1.32;0.23;
+Bateria AA;1.32;0.23;
+&
+@
+FV 2020/11/14/3
+14;11;2020;
+Moja mala firma;88645585;Slaska;28/14;Siemianowice Slaskie;41-100;
+Budex;65186213;ul. Obiwana Kenobiego;2/10;Krasnik;69-420;
+male cos;8.74;0.23;
+&
+@
+FV 2020/11/14/4
+14;11;2020;
+Moja mala firma;88645585;Slaska;28/14;Siemianowice Slaskie;41-100;
+Budex;65186213;ul. Obiwana Kenobiego;2/10;Krasnik;69-420;
+Bateria AA;1.32;0.23;
+Bateria AA;1.32;0.23;
+Bateria AA;1.32;0.23;
+&
+@
+FV 2020/11/14/5
+14;11;2020;
+Moja mala firma;88645585;Slaska;28/14;Siemianowice Slaskie;41-100;
+Elopomelo;168131353;Dluga;87;Pcim Dolny;87-315;
+Bateria AA;1.32;0.23;
+Zwykly akumulator;200;0.23;
+Zwykly akumulator;200;0.23;
+&
+@
+FV 2020/11/16/6
+16;11;2020;
+Moja mala firma;88645585;Slaska;11/14;Siemianowice Slaskie;41-100;
+Budex;123456789;ul. Obiwana Kenobiego;2/10;Krasnik;69-420;
+Duzy akumulator;5000;0.03;
+Duzy akumulator;5000;0.03;
+Bateria AA;1.32;0.23;
+&
+&
+NK 2020/11/16/0
+16;11;2020;
+Moja mala firma;88645585;Slaska;11/14;Siemianowice Slaskie;41-100;
+Budex;123456789;ul. Obiwana Kenobiego;2/10;Krasnik;69-420;
+Blad;Poprawa;
+&
+@

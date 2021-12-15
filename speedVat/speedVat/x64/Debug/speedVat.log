@@ -1,0 +1,16 @@
+﻿  GUI.cpp
+  main.cpp
+  note.cpp
+  product.cpp
+D:\Documents\sztudyja\pk3\a1abb626-gr11-repo\Projekt\speedVat\speedVat\product.cpp(141,24): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\Documents\sztudyja\pk3\a1abb626-gr11-repo\Projekt\speedVat\speedVat\product.cpp(158,24): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  subject.cpp
+D:\Documents\sztudyja\pk3\a1abb626-gr11-repo\Projekt\speedVat\speedVat\subject.cpp(245,24): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  vat.cpp
+D:\Documents\sztudyja\pk3\a1abb626-gr11-repo\Projekt\speedVat\speedVat\vat.cpp(29,21): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\Documents\sztudyja\pk3\a1abb626-gr11-repo\Projekt\speedVat\speedVat\vat.cpp(122,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Documents\sztudyja\pk3\a1abb626-gr11-repo\Projekt\speedVat\speedVat\vat.cpp(249,21): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  virtual.cpp
+  Generating Code...
+D:\Documents\sztudyja\pk3\a1abb626-gr11-repo\Projekt\speedVat\speedVat\subject.cpp(260): warning C4715: 'subjectC::search': not all control paths return a value
+  speedVat.vcxproj -> D:\Documents\sztudyja\pk3\a1abb626-gr11-repo\Projekt\speedVat\x64\Debug\speedVat.exe

@@ -1,0 +1,4 @@
+Zwykly akumulator;200;0.23;
+Duzy akumulator;5000;0.03;
+Bateria AA;1.32;0.23;
+male cos;8.74;0.23;
